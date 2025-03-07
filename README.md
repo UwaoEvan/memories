@@ -9,4 +9,4 @@ For now:-
 It is still under development and i'm yet to add user authentication so that i can limit some permissions to the users of the app.
 
 Visit https://memories-crud.netlify.app/ to view the app.
-Visit https://memories-crud.herokuapp.com/ to interact with the API.
+Visit https://memories-crud.herokuapp.com/ to interact with the API..
